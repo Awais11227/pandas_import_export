@@ -31,7 +31,7 @@ cd pandas-import-export
 
 #  2. **Install dependencies**
 
-- pip install pandas openpyxl pyarrow
+ pip install pandas openpyxl pyarrow
 
 # 3. **Run examples**
 
@@ -39,10 +39,10 @@ cd pandas-import-export
 import pandas as pd
 
 # **Import CSV**
-- df = pd.read_csv("data.csv")
+df = pd.read_csv("data.csv")
 
 # **Export CSV**
-- df.to_csv("output.csv", index=False)
+df.to_csv("output.csv", index=False)
 
 # 🤝 **Contributing**
 

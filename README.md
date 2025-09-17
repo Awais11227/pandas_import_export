@@ -22,7 +22,7 @@ It covers common formats such as CSV, Excel, JSON, and Parquet, making it easier
 
 ---
 
-## 🚀 Getting Started
+##  `Getting Started`
 
 ### 1. Clone the repository
 ```bash

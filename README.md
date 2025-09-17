@@ -1,4 +1,4 @@
-# pandas_import_export.
+# `pandas_import_export`
 
 
 This repository contains practical examples of how to **import and export files with Pandas**.  

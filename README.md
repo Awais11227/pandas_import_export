@@ -30,7 +30,7 @@ git clone https://github.com/your-username/pandas-import-export.git
 cd pandas-import-export
 ---
 
-  2.`Install dependencies`
+  2.Install dependencies
 
  pip install pandas openpyxl pyarrow
 
@@ -49,7 +49,7 @@ df.to_csv("output.csv", index=False)
 
 ---
 
- 🤝 Contributing
+ 🤝   `Contributing`
 
 - Contributions are welcome!
 - Feel free to submit issues, suggestions, or pull requests.

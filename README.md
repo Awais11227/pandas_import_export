@@ -6,7 +6,7 @@ It covers common formats such as CSV, Excel, JSON, and Parquet, making it easier
 
 ---
 
-## 📌 Features
+## `Features`
 - Import CSV, Excel, JSON, and Parquet files  
 - Export data into multiple file formats  
 - Clean, simple, and reusable code snippets  

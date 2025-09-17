@@ -14,7 +14,7 @@ It covers common formats such as CSV, Excel, JSON, and Parquet, making it easier
 
 ---
 
-## 📂 File Formats Covered
+## 📂 `File Formats Covered`
 - **CSV** → `pd.read_csv()`, `to_csv()`  
 - **Excel** → `pd.read_excel()`, `to_excel()`  
 - **JSON** → `pd.read_json()`, `to_json()`  

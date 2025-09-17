@@ -28,23 +28,28 @@ It covers common formats such as CSV, Excel, JSON, and Parquet, making it easier
 ```bash
 git clone https://github.com/your-username/pandas-import-export.git
 cd pandas-import-export
+---
 
-#  2. **Install dependencies**
+  2.Install dependencies
 
  pip install pandas openpyxl pyarrow
 
-# 3. **Run examples**
+ 3. Run examples
 
 - Check the Jupyter notebooks or Python files inside the repo to test each import/export method.
 import pandas as pd
 
-# **Import CSV**
+
+
+Import CSV
 df = pd.read_csv("data.csv")
 
-# **Export CSV**
+Export CSV
 df.to_csv("output.csv", index=False)
 
-# 🤝 **Contributing**
+---
+
+ 🤝 Contributing
 
 - Contributions are welcome!
 - Feel free to submit issues, suggestions, or pull requests.

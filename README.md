@@ -30,7 +30,7 @@ git clone https://github.com/your-username/pandas-import-export.git
 cd pandas-import-export
 ---
 
-  2.Install dependencies
+  2.`Install dependencies`
 
  pip install pandas openpyxl pyarrow
 

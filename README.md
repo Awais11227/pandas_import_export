@@ -24,7 +24,7 @@ It covers common formats such as CSV, Excel, JSON, and Parquet, making it easier
 
 ##  `Getting Started`
 
-### 1. Clone the repository
+### 1. `Clone the repository`
 ```bash
 git clone https://github.com/your-username/pandas-import-export.git
 cd pandas-import-export
